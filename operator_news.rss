@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <generator>RSS Builder by B!Soft</generator>
+    <title>Argus News</title>
+    <link>https://panoptes.live</link>
+    <description>Latest updates from Argus for Operators</description>
+    <language>en-nz</language>
+    <managingEditor>operator@panotes.live</managingEditor>
+    <webMaster>operator@panotes.live</webMaster>
+    <copyright>Hart Media</copyright>
+    <item>
+      <title>Don't Hug Me I'm TERRIFIED!</title>
+      <pubDate>Mon, 31 Oct 2022 23:08:09 +1300</pubDate>
+      <link>https://watch.panoptes.live/web/index.html#!/details?id=70eac656b51656b93caa552977b2f051&amp;serverId=9fb94948d22840f6a44ca2a9ddd069d7</link>
+      <author>eve@panoptes.live</author>
+      <category>Media</category>
+      <description><![CDATA[A special treat for Operators that have been looking foward to some sesame street style horror <3]]></description>
+    </item>
+    <item>
+      <title>Hello Operator</title>
+      <pubDate>Mon, 31 Oct 2022 22:53:46 +1300</pubDate>
+      <link>https://github.com/PanoptesDreams/argus</link>
+      <author>operator@panotes.live</author>
+      <comments>https://github.com/PanoptesDreams/argus/issues</comments>
+      <category>Software</category>
+      <description><![CDATA[Welcome! Here we go]]></description>
+    </item>
+  </channel>
+</rss>
